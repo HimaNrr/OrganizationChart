@@ -1,0 +1,104 @@
+/*manager css*/
+.manager {
+	background-color: #0096D6;
+	text-decoration: none;
+	color: #fff;
+	font-family: "HPRegular", Arial, Helvetica, sans-serif;
+	height: 150px;
+	margin-bottom: 20px;
+	padding: 10px;
+	width: 400px;
+	page-break-inside: avoid;
+}
+
+.managerName {
+	font-weight: bold;
+	color: #000;
+	font-family: "HPBold", Arial, Helvetica, sans-serif;
+	font-size: 1.38em;
+	margin: 0;
+}
+
+.managerimage {
+	float: right;
+	width: 150px;
+	height: 150px;
+	text-align: right;
+}
+
+.managerimg {
+	height: 150px;
+	max-height: 150px;
+	max-width: 150px;
+}
+
+/*employee css*/
+.wholeblock:hover {
+	float: left;
+	margin: 8px 16px 8px 0px;
+	padding: 10px;
+	background-color: #0096D6;
+	text-decoration: none;
+	color: #fff;
+	width: 290px;
+	height: 140px;
+	font-family: "HPRegular", Arial, Helvetica, sans-serif;
+	page-break-inside: avoid;
+}
+
+.wholeblock {
+	float: left;
+	margin: 8px 16px 8px 0px;;
+	padding: 10px;
+	background-color: #e5e8e8;
+	text-decoration: none;
+	color: #000;
+	width: 290px;
+	height: 140px;
+	font-family: "HPRegular", Arial, Helvetica, sans-serif;
+	page-break-inside: avoid;
+}
+
+.memberName {
+	font-weight: bold;
+	font-family: "HPBold", Arial, Helvetica, sans-serif;
+	font-size: 1.35em;
+	margin: 0;
+}
+
+.memberimage {
+	float: right;
+	width: 125px;
+	height: 125px;
+	text-align: right;
+}
+
+.img {
+	height: 125px;
+	max-height: 125px;
+	max-width: 130px;
+}
+
+.org_profile {
+	width: 1000px;
+}
+
+.imgSmall {
+	float: right;
+	text-align: right;
+	padding-top: 110px;
+	height: 25px;
+	width: 25px;
+}
+
+.hp_img {
+	float: right;
+}
+
+.pane-org-chart-org-chart-employee {
+	float: left;
+}
+
+.url:hover {
+	text-decoration: none;
+}

@@ -1,0 +1,12 @@
+name = Organization Chart
+description = Organization Chart
+core = 7.x
+files[] = org_chart.module
+files[] = org_chart.admin.inc
+package = HP
+
+configure = admin/config/services/org-chart
+
+version = "7.x-1.x"
+project = "org_chart"
+core = "7.x"
